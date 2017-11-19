@@ -3,7 +3,7 @@
 ## Wireframes
 
 (Include at least 3 wireframes here, adding images or files to your the repository as necessary. Format them as a bulleted/unordered list with links to the files.)
-[wireframes pdf] (project_02/art_auction_wireframes.pdf)
+[wireframes pdf] (lsnyder1/liftoff-assignments/blob/master/project_02/art_auction_wireframes.pdf)
 
 ## Project Tracker
 
